@@ -1,7 +1,6 @@
-# Notes:
-#
-# 1. The URL should be human readable as a path. It should not be a hash.
-# 2. Google Drive is no longer allowed for production Adobe projects.
-
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/adobecom/Shared%20Documents/demos/college
+  /: https://drive.google.com/drive/folders/17bH6mtRACYdDbkuf8UeHqOnbWwCxmCFx
+
+folders:
+  /authors: /generic-author
+  /tagged: /generic-tagged
