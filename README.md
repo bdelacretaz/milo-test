@@ -1,4 +1,10 @@
+# milo-test
+
 Experimenting with [Milo](https://milo.adobe.com/), at https://main--milo-test--bdelacretaz.hlx.page/
+
+## TODO
+- Defaults for recommended articles, using tags proximity?
+- Auto generate the tags block
 
 ## Milo template steps
 
