@@ -1,7 +1,6 @@
-# Milo goes to college
-Use this project template to create a Milo site.
+Experimenting with [Milo](https://milo.adobe.com/), at https://main--milo-test--bdelacretaz.hlx.page/
 
-## Steps
+## Milo template steps
 
 1. Copy existing [`college`](https://adobe.sharepoint.com/:f:/r/sites/adobecom/Shared%20Documents/demos/college) content folder to your sharepoint and give helix@adobe.com View access
 2. Click "[Use this template](https://github.com/adobecom/milo-college/generate)" Github button on this project.
