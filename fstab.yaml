@@ -2,5 +2,5 @@ mountpoints:
   /: https://adobe-my.sharepoint.com/:f:/r/personal/bdelacre_adobe_com/Documents/dev-blog-2024?csf=1&web=1&e=CHaDFN
 
 folders:
-  /authors: /generic-author
-  /tagged: /generic-tagged
+  /authors: /generic-authors
+  /topics: /generic-topics
