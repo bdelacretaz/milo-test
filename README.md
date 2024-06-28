@@ -5,6 +5,9 @@ Experimenting with [Milo](https://milo.adobe.com/), at https://main--milo-test--
 ## TODO
 - Defaults for recommended articles, using tags proximity?
 - Auto generate the tags block
+- Auto generate the gists block
+- Topics and authors pages
+- Author boxes
 
 ## Milo template steps
 
